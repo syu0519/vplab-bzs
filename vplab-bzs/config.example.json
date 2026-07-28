@@ -1,5 +1,0 @@
-{
-  "_comment": "複製此檔案為 config.json，填入你的 AI 端點設定",
-  "llama_url": "http://localhost:8288",
-  "_llama_url_hint": "支援任何 OpenAI 相容端點：llama.cpp / Ollama / LM Studio / vLLM"
-}
